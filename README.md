@@ -23,6 +23,8 @@ Soy un apasionado por la tecnología 💻 y el diseño 🖌️. Actualmente esto
   </a>
 </p>
 
+<br>
+
 <p align="left">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
