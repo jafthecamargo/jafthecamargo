@@ -29,15 +29,3 @@ Soy un apasionado por la tecnología 💻 y el diseño 🖌️. Actualmente esto
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"  />
   </a>
 </p>
-
-
-<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=mdeboute&show_icons=true) -->
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mdeboute&layout=compact&v=2)](https://wakatime.com/@mdeboute)
-
-<!-- profile links -->
-[github_profile]: https://github.com/mdeboute "Github Profile"
-[linkedin]: https://linkedin.com/in/mdeboute "Linkedin Profile"
-
-<!-- badges -->
-[gmail_badge]: https://img.shields.io/badge/-martin.deboute%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:martin.deboute@gmail.com
-[linkedin_badge]: https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mdeboute
