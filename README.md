@@ -2,6 +2,8 @@
 
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Soy Jafthe Camargo
 
+Mi nombre es Jafthe y soy un apasionado por la tecnología :computer: y el diseño 🖌️. Actualmente estoy por terminar la carrera de Ing. en Sistemas Computacionales en la Escuela Superior de Cómputo del IPN. Mi enfoque principal es en el diseño UX/UI para el desarrollo de páginas web o aplicaciones móviles. Busco crecer profesionalmente en esta área y poder crear interfaces intuitivas, eficientes y visualmente atractivas que mejoren la experiencia para los usuarios. En cuanto a mis habilidades, tengo conocimientos en diversas áreas de la computación, principalmente en lenguajes como C, Python y Swift. Para el desarrollo web, manejo React, Angular, HTML y CSS. Para el desarrollo móvil, trabajo con SwiftUI para entornos Apple. Además, sé desarrollar prototipos y maquetación con Figma.
+
 Hi, i'm an french guy with an interest in programming & mathematics 💻. I'm currently studying at [University of Bordeaux](https://www.u-bordeaux.fr) to become an Operations Research Engineer.
 
 - I love nature 🎣🌲, sport 💪, guitar 🎸 and reading 📚.
