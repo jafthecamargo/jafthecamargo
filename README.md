@@ -15,9 +15,13 @@ Soy un apasionado por la tecnología 💻 y el diseño 🖌️. Actualmente esto
 ## 📨 Contacto
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/jafthecamargo" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit" alt="@unsimpledev" />
+   <a href="mailto:jethrocamargo@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="jethrocamargo@gmail.com" />
   </a>
-   <a href="https://www.youtube.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit" alt="@unsimpledev" />
+  <a href="https://www.linkedin.com/in/jafthecamargo" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@jafthecamargo" />
+  </a>
+   <a href="https://www.figma.com/@jethrocamargo" target="blank"><img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="@jethrocamargo" />
+  </a>
+   <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="jethrocamargo@gmail.com" />
   </a>
 </p>
 
