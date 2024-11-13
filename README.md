@@ -8,7 +8,7 @@ Soy un apasionado por la tecnología 💻 y el diseño 🖌️. Actualmente esto
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,swift,git,py,pycharm,notion,docker,ps,ai,c" />
+    <img src="https://skillicons.dev/icons?i=figma,swift,py,pycharm,git,notion,docker,ps,ai,c" />
   </a>
 </p>
 
